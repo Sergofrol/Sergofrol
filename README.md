@@ -4,7 +4,7 @@
 * 🔥 4+ лет в тестировании
 * 🐍 Пишу автотесты на Python
 * ⚙️ Развиваюсь в автоматизации
-* 📑 Опыт и навыки в **[резюме][(https://career.habr.com/companies/qa-studio](https://hh.ru/resume/4fbc5980ff103fc4770039ed1f364d51466350)**
+* 📑 Опыт и навыки в **[резюме][(https://hh.ru/resume/4fbc5980ff103fc4770039ed1f364d51466350)]**
 * 📞 Мои контакты: **[телеграм](@BigBaraBooms)**, **[почта](jiojiywka@yandex.ru)**
 
   
