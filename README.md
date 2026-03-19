@@ -1,11 +1,11 @@
 ## Привет, я Серёга 👋
-##### Начинающий AQA в Engineer 🧡
+##### Начинающий AQA Engineer 🧡
 
 * 🔥 4+ лет в тестировании
 * 🐍 Пишу автотесты на Python
 * ⚙️ Развиваюсь в автоматизации
 * 📑 Опыт и навыки в **[резюме](https://hh.ru/resume/4fbc5980ff103fc4770039ed1f364d51466350)**
-* 📞 Мои контакты: **[телеграм](https://t.me/BigBaraBooms)**, **[почта](jiojiywka@yandex.ru)**
+* 📞 Мои контакты: **[телеграм](https://t.me/BigBaraBooms)**
 
   
 
@@ -19,5 +19,5 @@
 #### Мои проекты:
 | API My Shows Rating |  API Битва покемонов | UI Битва покемонов |
 |---------------------|----------------------|--------------------|
-|[my-shows-api-tests](https://github.com/elenaivanovaqa/my-shows-api-tests)|[pokemonbattle-api-tests](https://github.com/elenaivanovaqa/pokemonbattle-api-tests)   | [pokemonbattle-e2e-tests](https://github.com/elenaivanovaqa/pokemonbattle-e2e-tests)   
+|[my-shows-api-tests](https://github.com/Sergofrol/myshows_api_tests)|[pokemonbattle-api-tests](https://github.com/Sergofrol/pokemonbattle_api_tests)   | [pokemonbattle-e2e-tests](https://github.com/Sergofrol/pokemonbattle_e2e_tests)   
 | Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Selenium, Gitlab CI|
